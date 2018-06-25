@@ -1,0 +1,6 @@
+C:\Program Files\Java\jdk1.8.0_172
+
+%JAVA_HOME%\bin
+
+C:\Users\PHANUDET KAWILAI\AppData\Local\Android\Sdk
+C:\Users\PHANUDET KAWILAI\AppData\Local\Android\Sdk\platform-tools;C:\Users\PHANUDET KAWILAI\AppData\Local\Android\Sdk\tools
